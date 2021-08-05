@@ -1,0 +1,9 @@
+<h1>Test</h1>
+<board><% board.forEach(function(row){ %>
+    <span>
+    <% row.forEach(function(square){ %>
+        <div class='square <%= square.color?"white":"black"%> <%= square.pieceColor?"wf":"bf"%>'><%= square.piece %></div>
+    <% })%>
+    </span>
+<% }) %>
+</board>

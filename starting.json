@@ -1,0 +1,82 @@
+[
+  [
+    { "piece": "R", "squareId": "a8", "color": false, "pieceColor": false },
+    { "piece": "N", "squareId": "b8", "color": true, "pieceColor": false },
+    { "piece": "B", "squareId": "c8", "color": false, "pieceColor": false },
+    { "piece": "Q", "squareId": "d8", "color": true, "pieceColor": false },
+    { "piece": "K", "squareId": "e8", "color": false, "pieceColor": false },
+    { "piece": "B", "squareId": "f8", "color": true, "pieceColor": false },
+    { "piece": "N", "squareId": "g8", "color": false, "pieceColor": false },
+    { "piece": "R", "squareId": "h8", "color": true, "pieceColor": false }
+  ],
+  [
+    { "piece": "P", "squareId": "a7", "color": true, "pieceColor": false },
+    { "piece": "P", "squareId": "b7", "color": false, "pieceColor": false },
+    { "piece": "P", "squareId": "c7", "color": true, "pieceColor": false },
+    { "piece": "P", "squareId": "d7", "color": false, "pieceColor": false },
+    { "piece": "P", "squareId": "e7", "color": true, "pieceColor": false },
+    { "piece": "P", "squareId": "f7", "color": false, "pieceColor": false },
+    { "piece": "P", "squareId": "g7", "color": true, "pieceColor": false },
+    { "piece": "P", "squareId": "h7", "color": false, "pieceColor": false }
+  ],
+  [
+    { "piece": "", "squareId": "a6", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "b6", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "c6", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "d6", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "e6", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "f6", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "g6", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "h6", "color": true, "pieceColor": true }
+  ],
+  [
+    { "piece": "", "squareId": "a5", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "b5", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "c5", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "d5", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "e5", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "f5", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "g5", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "h5", "color": false, "pieceColor": true }
+  ],
+  [
+    { "piece": "", "squareId": "a4", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "b4", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "c4", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "d4", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "e4", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "f4", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "g4", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "h4", "color": true, "pieceColor": true }
+  ],
+  [
+    { "piece": "", "squareId": "a3", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "b3", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "c3", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "d3", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "e3", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "f3", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "g3", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "h3", "color": false, "pieceColor": true }
+  ],
+  [
+    { "piece": "P", "squareId": "a2", "color": false, "pieceColor": true },
+    { "piece": "P", "squareId": "b2", "color": true, "pieceColor": true },
+    { "piece": "P", "squareId": "c2", "color": false, "pieceColor": true },
+    { "piece": "P", "squareId": "d2", "color": true, "pieceColor": true },
+    { "piece": "P", "squareId": "e2", "color": false, "pieceColor": true },
+    { "piece": "P", "squareId": "f2", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "g2", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "h2", "color": true, "pieceColor": true }
+  ],
+  [
+    { "piece": "", "squareId": "a1", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "b1", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "c1", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "d1", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "e1", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "f1", "color": false, "pieceColor": true },
+    { "piece": "", "squareId": "g1", "color": true, "pieceColor": true },
+    { "piece": "", "squareId": "h1", "color": false, "pieceColor": true }
+  ]
+]
